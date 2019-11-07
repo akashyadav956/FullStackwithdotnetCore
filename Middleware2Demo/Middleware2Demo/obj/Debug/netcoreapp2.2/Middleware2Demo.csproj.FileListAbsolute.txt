@@ -1,0 +1,14 @@
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\bin\Debug\netcoreapp2.2\Middleware2Demo.deps.json
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\bin\Debug\netcoreapp2.2\Middleware2Demo.runtimeconfig.json
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\bin\Debug\netcoreapp2.2\Middleware2Demo.runtimeconfig.dev.json
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\bin\Debug\netcoreapp2.2\Middleware2Demo.dll
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\bin\Debug\netcoreapp2.2\Middleware2Demo.pdb
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\obj\Debug\netcoreapp2.2\Middleware2Demo.csprojAssemblyReference.cache
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\obj\Debug\netcoreapp2.2\Middleware2Demo.csproj.CoreCompileInputs.cache
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\obj\Debug\netcoreapp2.2\Middleware2Demo.RazorAssemblyInfo.cache
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\obj\Debug\netcoreapp2.2\Middleware2Demo.RazorAssemblyInfo.cs
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\obj\Debug\netcoreapp2.2\Middleware2Demo.AssemblyInfoInputs.cache
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\obj\Debug\netcoreapp2.2\Middleware2Demo.AssemblyInfo.cs
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\obj\Debug\netcoreapp2.2\Middleware2Demo.RazorTargetAssemblyInfo.cache
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\obj\Debug\netcoreapp2.2\Middleware2Demo.dll
+D:\FSD_Tranning\DotNetCore\Middleware2Demo\Middleware2Demo\obj\Debug\netcoreapp2.2\Middleware2Demo.pdb

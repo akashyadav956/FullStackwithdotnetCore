@@ -1,0 +1,11 @@
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\bin\Debug\netcoreapp2.1\SampleCoreApp.deps.json
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\bin\Debug\netcoreapp2.1\SampleCoreApp.runtimeconfig.json
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\bin\Debug\netcoreapp2.1\SampleCoreApp.runtimeconfig.dev.json
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\bin\Debug\netcoreapp2.1\SampleCoreApp.dll
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\bin\Debug\netcoreapp2.1\SampleCoreApp.pdb
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.csprojAssemblyReference.cache
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.csproj.CoreCompileInputs.cache
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.AssemblyInfoInputs.cache
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.AssemblyInfo.cs
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.dll
+D:\FSD_Tranning\DotNetCore\SampleCoreApp\obj\Debug\netcoreapp2.1\SampleCoreApp.pdb

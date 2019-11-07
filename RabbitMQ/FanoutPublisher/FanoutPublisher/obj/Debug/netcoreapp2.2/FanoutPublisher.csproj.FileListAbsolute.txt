@@ -1,0 +1,11 @@
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\bin\Debug\netcoreapp2.2\FanoutPublisher.deps.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\bin\Debug\netcoreapp2.2\FanoutPublisher.runtimeconfig.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\bin\Debug\netcoreapp2.2\FanoutPublisher.runtimeconfig.dev.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\bin\Debug\netcoreapp2.2\FanoutPublisher.dll
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.csprojAssemblyReference.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.csproj.CoreCompileInputs.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.AssemblyInfoInputs.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.AssemblyInfo.cs
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\bin\Debug\netcoreapp2.2\FanoutPublisher.pdb
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.dll
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.pdb

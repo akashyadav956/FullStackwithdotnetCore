@@ -1,0 +1,11 @@
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.deps.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.runtimeconfig.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.runtimeconfig.dev.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.dll
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.csproj.CoreCompileInputs.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.AssemblyInfoInputs.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.AssemblyInfo.cs
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.pdb
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.csprojAssemblyReference.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.dll
+D:\FSD_Tranning\DotNetCore\RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.pdb

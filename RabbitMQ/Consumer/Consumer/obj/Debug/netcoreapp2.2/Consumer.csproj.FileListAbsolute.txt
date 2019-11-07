@@ -1,0 +1,11 @@
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\bin\Debug\netcoreapp2.2\Consumer.deps.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\bin\Debug\netcoreapp2.2\Consumer.runtimeconfig.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\bin\Debug\netcoreapp2.2\Consumer.runtimeconfig.dev.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\bin\Debug\netcoreapp2.2\Consumer.dll
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\obj\Debug\netcoreapp2.2\Consumer.csproj.CoreCompileInputs.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfoInputs.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfo.cs
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\bin\Debug\netcoreapp2.2\Consumer.pdb
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\obj\Debug\netcoreapp2.2\Consumer.csprojAssemblyReference.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\obj\Debug\netcoreapp2.2\Consumer.dll
+D:\FSD_Tranning\DotNetCore\RabbitMQ\Consumer\Consumer\obj\Debug\netcoreapp2.2\Consumer.pdb

@@ -1,0 +1,11 @@
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\netcoreapp2.2\AdvancedPublisher.deps.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\netcoreapp2.2\AdvancedPublisher.runtimeconfig.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\netcoreapp2.2\AdvancedPublisher.runtimeconfig.dev.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\netcoreapp2.2\AdvancedPublisher.dll
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\netcoreapp2.2\AdvancedPublisher.csprojAssemblyReference.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\netcoreapp2.2\AdvancedPublisher.csproj.CoreCompileInputs.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\netcoreapp2.2\AdvancedPublisher.AssemblyInfoInputs.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\netcoreapp2.2\AdvancedPublisher.AssemblyInfo.cs
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\netcoreapp2.2\AdvancedPublisher.pdb
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\netcoreapp2.2\AdvancedPublisher.dll
+D:\FSD_Tranning\DotNetCore\RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\netcoreapp2.2\AdvancedPublisher.pdb

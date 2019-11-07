@@ -1,0 +1,10 @@
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanuoutConsumer\FanuoutConsumer\bin\Debug\netcoreapp2.2\FanuoutConsumer.deps.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanuoutConsumer\FanuoutConsumer\bin\Debug\netcoreapp2.2\FanuoutConsumer.runtimeconfig.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanuoutConsumer\FanuoutConsumer\bin\Debug\netcoreapp2.2\FanuoutConsumer.runtimeconfig.dev.json
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanuoutConsumer\FanuoutConsumer\bin\Debug\netcoreapp2.2\FanuoutConsumer.dll
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanuoutConsumer\FanuoutConsumer\obj\Debug\netcoreapp2.2\FanuoutConsumer.csproj.CoreCompileInputs.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanuoutConsumer\FanuoutConsumer\obj\Debug\netcoreapp2.2\FanuoutConsumer.AssemblyInfoInputs.cache
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanuoutConsumer\FanuoutConsumer\obj\Debug\netcoreapp2.2\FanuoutConsumer.AssemblyInfo.cs
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanuoutConsumer\FanuoutConsumer\bin\Debug\netcoreapp2.2\FanuoutConsumer.pdb
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanuoutConsumer\FanuoutConsumer\obj\Debug\netcoreapp2.2\FanuoutConsumer.dll
+D:\FSD_Tranning\DotNetCore\RabbitMQ\FanuoutConsumer\FanuoutConsumer\obj\Debug\netcoreapp2.2\FanuoutConsumer.pdb
